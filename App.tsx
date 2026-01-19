@@ -164,7 +164,7 @@ const App: React.FC = () => {
       </main>
 
       <footer className="bg-white border-t border-slate-200 p-4 text-center text-slate-400 text-xs">
-        &copy; 2024 CaixaMaster - Sistema de Gestão Operacional em Nuvem
+        &copy; 2026 CaixaMaster - Sistema de Gestão Operacional em Nuvem
       </footer>
     </div>
   );
